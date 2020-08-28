@@ -249,8 +249,8 @@ html {
   color: #fff;
   text-align: center;
 }
-.contact-p span{
-  color: red;
+.contact-p a{
+  color: #fff;
 }
 .contact-form {
   width: 50rem;
